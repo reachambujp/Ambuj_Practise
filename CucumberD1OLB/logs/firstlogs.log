@@ -1,0 +1,731 @@
+20241001 22:50:41 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java48 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241001 22:51:57 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java48 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241001 22:53:09 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java48 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241001 22:57:06 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java48 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241001 22:58:42 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java48 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241001 23:01:16 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java48 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241001 23:06:32 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java48 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241001 23:06:37 INFO  [main] base.BasePage BasePage.java113 - waiting for element UserName to be clickable
+20241001 23:14:45 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java48 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241001 23:14:50 INFO  [main] base.BasePage BasePage.java113 - waiting for element UserName to be clickable
+20241001 23:17:05 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java48 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241001 23:17:10 INFO  [main] base.BasePage BasePage.java113 - waiting for element UserName to be clickable
+20241002 12:09:47 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java48 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 12:09:52 INFO  [main] base.BasePage BasePage.java113 - waiting for element UserName to be clickable
+20241002 12:21:57 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 12:22:02 INFO  [main] base.BasePage BasePage.java113 - waiting for element UserName to be clickable
+20241002 12:44:25 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 12:49:38 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 12:59:40 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 12:59:45 INFO  [main] pages.LoginPage LoginPage.java36 - Entered enterUserName
+20241002 13:03:53 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 13:03:55 INFO  [main] pages.LoginPage LoginPage.java36 - Entered enterUserName
+20241002 13:03:55 INFO  [main] pages.LoginPage LoginPage.java47 - Entered enterPassword
+20241002 13:03:55 INFO  [main] pages.LoginPage LoginPage.java52 - Entered performLogin
+20241002 13:03:55 INFO  [main] base.BasePage BasePage.java78 - clickLoginButton is not clicked
+20241002 13:03:55 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241002 13:09:53 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 13:09:55 INFO  [main] pages.LoginPage LoginPage.java36 - Entered enterUserName
+20241002 13:09:55 INFO  [main] pages.LoginPage LoginPage.java47 - Entered enterPassword
+20241002 13:09:55 INFO  [main] pages.LoginPage LoginPage.java52 - Entered performLogin
+20241002 13:09:57 INFO  [main] pages.LoginPage LoginPage.java55 - Entered performLogin
+20241002 13:17:21 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 13:17:23 INFO  [main] pages.LoginPage LoginPage.java36 - Entered enterUserName
+20241002 13:17:23 INFO  [main] pages.LoginPage LoginPage.java47 - Entered enterPassword
+20241002 13:17:23 INFO  [main] pages.LoginPage LoginPage.java52 - Entered performLogin
+20241002 13:17:25 INFO  [main] pages.LoginPage LoginPage.java55 - Entered performLogin
+20241002 13:36:19 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 13:36:21 INFO  [main] pages.LoginPage LoginPage.java36 - Entered enterUserName
+20241002 13:36:21 INFO  [main] pages.LoginPage LoginPage.java47 - Entered enterPassword
+20241002 13:36:21 INFO  [main] pages.LoginPage LoginPage.java52 - Entered performLogin
+20241002 13:36:23 INFO  [main] pages.LoginPage LoginPage.java55 - Entered performLogin
+20241002 13:37:44 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 13:37:46 INFO  [main] pages.LoginPage LoginPage.java36 - Entered enterUserName
+20241002 13:37:46 INFO  [main] pages.LoginPage LoginPage.java47 - Entered enterPassword
+20241002 13:37:46 INFO  [main] pages.LoginPage LoginPage.java52 - Entered performLogin
+20241002 13:37:48 INFO  [main] pages.LoginPage LoginPage.java55 - Entered performLogin
+20241002 13:52:27 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 13:52:29 INFO  [main] pages.LoginPage LoginPage.java36 - Entered enterUserName
+20241002 13:52:29 INFO  [main] pages.LoginPage LoginPage.java47 - Entered enterPassword
+20241002 13:52:29 INFO  [main] pages.LoginPage LoginPage.java52 - Entered performLogin
+20241002 13:52:31 INFO  [main] pages.LoginPage LoginPage.java55 - Entered performLogin
+20241002 13:53:39 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 14:13:47 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 14:31:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 16:39:46 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 16:42:37 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 16:53:34 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 16:53:36 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Username =Manishtest13
+20241002 16:53:39 INFO  [main] pages.LoginPage LoginPage.java50 - Entered userName
+20241002 17:01:21 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 17:01:23 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Username =Manishtest13
+20241002 17:01:25 INFO  [main] pages.LoginPage LoginPage.java50 - Entered userName
+20241002 17:01:28 INFO  [main] pages.LoginPage LoginPage.java59 - Entered enterPassword
+20241002 17:01:28 INFO  [main] pages.LoginPage LoginPage.java64 - Entered performLogin
+20241002 17:01:30 INFO  [main] pages.LoginPage LoginPage.java67 - Entered performLogin
+20241002 17:16:05 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 17:16:07 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Username =Manishtest13
+20241002 17:16:10 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241002 17:16:13 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241002 17:16:13 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241002 17:16:15 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241002 17:16:15 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java142 - Landed on Dashboard
+20241002 17:16:15 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java144 - Page title=Log in
+20241002 17:24:38 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 17:24:40 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java109 - Page Name=LoginPage
+20241002 17:24:40 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java121 - Username =Manishtest13
+20241002 17:24:42 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241002 17:24:45 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241002 17:24:45 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241002 17:24:47 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241002 17:24:47 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java109 - Page Name=DashboardPage
+20241002 17:24:47 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java140 - Landed on Dashboard
+20241002 17:24:47 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java142 - Page title=Log in
+20241002 17:27:56 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 17:27:58 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java109 - Page Name=LoginPage
+20241002 17:27:58 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java121 - Username =Manishtest13
+20241002 17:28:01 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241002 17:28:03 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241002 17:28:03 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241002 17:28:05 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241002 17:28:05 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java109 - Page Name=DashboardPage
+20241002 17:28:05 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java140 - Landed on Dashboard
+20241002 17:28:05 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java143 - Page title=Log in
+20241002 17:30:59 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 17:31:01 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java109 - Page Name=LoginPage
+20241002 17:31:01 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java121 - Username =Manishtest13
+20241002 17:31:05 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241002 17:31:07 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241002 17:31:07 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241002 17:31:10 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241002 17:31:10 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java109 - Page Name=DashboardPage
+20241002 17:31:10 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java140 - Landed on Dashboard
+20241002 17:31:13 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java144 - Page title=Log in
+20241002 17:42:21 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241002 17:42:23 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java109 - Page Name=LoginPage
+20241002 17:42:23 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java121 - Username =Manishtest13
+20241002 17:42:26 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241002 17:42:28 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241002 17:42:28 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241002 17:42:31 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241002 17:42:31 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java109 - Page Name=DashboardPage
+20241002 17:42:31 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java140 - Landed on Dashboard
+20241002 17:42:36 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java144 - Page title=Dashboard
+20241003 16:49:19 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241003 16:49:21 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=LoginPage
+20241003 16:49:22 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java130 - Username =Manishtest13
+20241003 16:49:24 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241003 16:49:27 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241003 16:49:27 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241003 16:49:29 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241003 16:49:29 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241003 16:49:29 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241003 16:49:34 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Dashboard
+20241003 16:49:41 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241003 16:49:43 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241003 17:44:29 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241003 17:44:31 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=LoginPage
+20241003 17:44:31 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java130 - Username =Manishtest13
+20241003 17:44:34 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241003 17:44:36 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241003 17:44:36 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241003 17:44:39 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241003 17:44:39 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241003 17:44:39 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241003 17:44:44 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Dashboard
+20241003 17:44:50 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241003 17:44:52 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241003 17:50:48 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241003 17:50:50 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=LoginPage
+20241003 17:50:50 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java130 - Username =Manishtest13
+20241003 17:50:53 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241003 17:50:56 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241003 17:50:56 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241003 17:50:58 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241003 17:50:58 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241003 17:50:58 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241003 17:51:04 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Dashboard
+20241003 17:51:10 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241003 17:51:12 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241003 17:53:36 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241003 17:53:38 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=LoginPage
+20241003 17:53:38 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java130 - Username =Manishtest13
+20241003 17:53:41 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241003 17:53:43 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241003 17:53:43 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241003 17:53:46 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241003 17:53:46 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241003 17:53:46 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241003 17:53:51 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Dashboard
+20241003 17:53:59 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241003 17:54:01 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241003 17:55:02 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241003 17:55:04 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=LoginPage
+20241003 17:55:04 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java130 - Username =Manishtest13
+20241003 17:55:06 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241003 17:55:09 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241003 17:55:09 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241003 17:55:11 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241003 17:55:11 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241003 17:55:11 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241003 17:55:17 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Dashboard
+20241003 17:55:17 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241003 17:55:17 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241003 17:55:17 INFO  [main] pages.DashboardPage DashboardPage.java39 - click titleViewButton
+20241003 17:55:17 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java160 - Tile view icon is clicked
+20241003 17:57:33 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241003 17:57:35 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=LoginPage
+20241003 17:57:35 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java130 - Username =Manishtest13
+20241003 17:57:38 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241003 17:57:40 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241003 17:57:40 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241003 17:57:42 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241003 17:57:42 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241003 17:57:42 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241003 17:57:48 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Dashboard
+20241003 17:57:48 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241003 17:57:49 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241003 17:57:49 INFO  [main] pages.DashboardPage DashboardPage.java39 - click titleViewButton
+20241003 17:57:49 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java160 - Tile view icon is clicked
+20241004 17:42:16 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 17:42:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=LoginPage
+20241004 17:42:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java130 - Username =Manishtest13
+20241004 17:42:21 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 17:42:23 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 17:42:23 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 17:42:25 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 17:42:25 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 17:42:25 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241004 17:42:30 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Dashboard
+20241004 17:42:30 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 17:42:35 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241004 17:42:35 INFO  [main] pages.DashboardPage DashboardPage.java40 - click titleViewButton
+20241004 17:42:35 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java160 - Tile view icon is clicked
+20241004 17:48:34 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 17:48:36 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=LoginPage
+20241004 17:48:36 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java130 - Username =Manishtest13
+20241004 17:48:39 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 17:48:41 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 17:48:41 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 17:48:44 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 17:48:44 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 17:48:44 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241004 17:48:49 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Dashboard
+20241004 17:48:49 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 17:51:09 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 17:51:11 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=LoginPage
+20241004 17:51:11 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java130 - Username =Manishtest13
+20241004 17:51:14 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 17:51:16 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 17:51:16 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 17:51:18 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 17:51:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 17:51:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241004 17:51:23 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Dashboard
+20241004 17:51:23 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 17:52:51 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 17:52:53 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=LoginPage
+20241004 17:52:53 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java130 - Username =Manishtest13
+20241004 17:52:56 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 17:52:58 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 17:52:58 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 17:53:00 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 17:53:00 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 17:53:00 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241004 17:53:05 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Dashboard
+20241004 17:53:05 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 17:53:09 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241004 17:53:09 INFO  [main] pages.DashboardPage DashboardPage.java41 - click titleViewButton
+20241004 17:53:09 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java160 - Tile view icon is clicked
+20241004 17:56:47 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 17:56:49 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=LoginPage
+20241004 17:56:49 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java130 - Username =Manishtest13
+20241004 17:56:51 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 17:56:54 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 17:56:54 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 17:56:56 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 17:56:56 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 17:56:56 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241004 17:57:01 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Dashboard
+20241004 17:57:01 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 17:57:05 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241004 17:57:05 INFO  [main] pages.DashboardPage DashboardPage.java42 - click titleViewButton
+20241004 17:57:05 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java160 - Tile view icon is clicked
+20241004 18:00:03 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 18:00:05 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=LoginPage
+20241004 18:00:05 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java130 - Username =Manishtest13
+20241004 18:00:07 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 18:00:10 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 18:00:10 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 18:00:12 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 18:00:12 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 18:00:12 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241004 18:00:17 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Dashboard
+20241004 18:00:17 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 18:00:21 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241004 18:00:21 INFO  [main] pages.DashboardPage DashboardPage.java42 - click titleViewButton
+20241004 18:00:21 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java160 - Tile view icon is clicked
+20241004 18:00:25 INFO  [main] pages.DashboardPage DashboardPage.java64 - click on EverBank Savings Account
+20241004 18:00:25 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java166 - MMA Account tile is clicked
+20241004 18:03:05 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 18:03:07 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=LoginPage
+20241004 18:03:07 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java130 - Username =Manishtest13
+20241004 18:03:18 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 18:03:21 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 18:03:21 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 18:03:23 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 18:03:23 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 18:03:23 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241004 18:03:28 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Log in
+20241004 18:05:19 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 18:05:21 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=LoginPage
+20241004 18:05:21 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java130 - Username =Manishtest13
+20241004 18:05:24 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 18:05:26 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 18:05:26 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 18:05:29 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 18:05:29 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 18:05:29 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241004 18:05:34 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Log in
+20241004 18:05:34 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 18:08:11 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 18:08:13 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=LoginPage
+20241004 18:08:13 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java130 - Username =Manishtest13
+20241004 18:08:19 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 18:08:22 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 18:08:22 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 18:08:24 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 18:08:24 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 18:08:24 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241004 18:08:29 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Dashboard
+20241004 18:08:29 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 18:08:33 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241004 18:08:33 INFO  [main] pages.DashboardPage DashboardPage.java42 - click titleViewButton
+20241004 18:08:33 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java160 - Tile view icon is clicked
+20241004 18:08:36 INFO  [main] pages.DashboardPage DashboardPage.java64 - click on EverBank Savings Account
+20241004 18:08:36 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java166 - MMA Account tile is clicked
+20241004 18:08:36 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=AccountPage
+20241004 18:08:38 INFO  [main] base.BasePage BasePage.java75 - Click on Account Detail is clicked 
+20241004 18:08:38 INFO  [main] pages.AccountPage AccountPage.java35 - Clicked Account Detail
+20241004 18:08:38 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java172 - Account detail icon is clicked
+20241004 18:08:38 INFO  [main] base.BasePage BasePage.java75 - click LogOut Button is clicked 
+20241004 18:08:38 INFO  [main] pages.AccountPage AccountPage.java42 - clicked logoutButton
+20241004 18:08:38 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java178 - User clicked on logout button
+20241004 18:08:39 INFO  [main] base.BasePage BasePage.java75 - Click Yes on confirmation  is clicked 
+20241004 18:08:39 INFO  [main] pages.AccountPage AccountPage.java48 - Clicked Yes on confirmation popup 
+20241004 18:08:39 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java184 - User clicks Yes on confirmation
+20241004 18:08:39 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java189 - Landed on accountPage
+20241004 18:08:39 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java191 - Page title=Transactions
+20241004 18:10:40 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 18:10:42 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=LoginPage
+20241004 18:10:43 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java130 - Username =Manishtest13
+20241004 18:10:45 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 18:10:48 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 18:10:48 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 18:10:50 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 18:10:50 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 18:10:50 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241004 18:10:55 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Log in
+20241004 18:10:55 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=DashboardPage
+20241004 18:11:00 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241004 18:11:00 INFO  [main] pages.DashboardPage DashboardPage.java42 - click titleViewButton
+20241004 18:11:00 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java160 - Tile view icon is clicked
+20241004 18:11:04 INFO  [main] pages.DashboardPage DashboardPage.java64 - click on EverBank Savings Account
+20241004 18:11:04 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java166 - MMA Account tile is clicked
+20241004 18:11:04 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java118 - Page Name=AccountPage
+20241004 18:11:11 INFO  [main] base.BasePage BasePage.java75 - Click on Account Detail is clicked 
+20241004 18:11:11 INFO  [main] pages.AccountPage AccountPage.java36 - Clicked Account Detail
+20241004 18:11:11 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java172 - Account detail icon is clicked
+20241004 18:13:58 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 18:14:00 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java117 - Page Name=LoginPage
+20241004 18:14:00 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java129 - Username =Manishtest13
+20241004 18:14:03 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 18:14:05 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 18:14:05 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 18:14:08 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 18:14:08 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java117 - Page Name=DashboardPage
+20241004 18:14:08 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java147 - Landed on Dashboard
+20241004 18:14:12 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java151 - Page title=Dashboard
+20241004 18:14:12 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java117 - Page Name=DashboardPage
+20241004 18:14:15 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241004 18:14:15 INFO  [main] pages.DashboardPage DashboardPage.java42 - click titleViewButton
+20241004 18:14:15 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java159 - Tile view icon is clicked
+20241004 18:14:18 INFO  [main] pages.DashboardPage DashboardPage.java64 - click on EverBank Savings Account
+20241004 18:14:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java165 - MMA Account tile is clicked
+20241004 18:14:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java117 - Page Name=AccountPage
+20241004 18:14:27 INFO  [main] base.BasePage BasePage.java75 - Click on Account Detail is clicked 
+20241004 18:14:27 INFO  [main] pages.AccountPage AccountPage.java36 - Clicked Account Detail
+20241004 18:14:27 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java171 - Account detail icon is clicked
+20241004 18:14:31 INFO  [main] base.BasePage BasePage.java75 - click LogOut Button is clicked 
+20241004 18:14:31 INFO  [main] pages.AccountPage AccountPage.java44 - clicked logoutButton
+20241004 18:14:31 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java177 - User clicked on logout button
+20241004 18:14:32 INFO  [main] base.BasePage BasePage.java75 - Click Yes on confirmation  is clicked 
+20241004 18:14:32 INFO  [main] pages.AccountPage AccountPage.java50 - Clicked Yes on confirmation popup 
+20241004 18:14:32 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java183 - User clicks Yes on confirmation
+20241004 18:14:32 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java188 - Landed on accountPage
+20241004 18:14:32 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java190 - Page title=Transactions
+20241004 18:18:03 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 18:18:05 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java117 - Page Name=LoginPage
+20241004 18:18:05 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java129 - Username =Manishtest13
+20241004 18:18:08 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 18:18:11 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 18:18:11 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 18:18:13 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 18:18:13 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java117 - Page Name=DashboardPage
+20241004 18:18:13 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java147 - Landed on Dashboard
+20241004 18:18:17 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java151 - Page title=Dashboard
+20241004 18:18:17 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java117 - Page Name=DashboardPage
+20241004 18:18:23 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241004 18:18:23 INFO  [main] pages.DashboardPage DashboardPage.java42 - click titleViewButton
+20241004 18:18:23 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java159 - Tile view icon is clicked
+20241004 18:18:26 INFO  [main] pages.DashboardPage DashboardPage.java64 - click on EverBank Savings Account
+20241004 18:18:26 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java165 - MMA Account tile is clicked
+20241004 18:18:26 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java117 - Page Name=AccountPage
+20241004 18:18:31 INFO  [main] base.BasePage BasePage.java75 - Click on Account Detail is clicked 
+20241004 18:18:31 INFO  [main] pages.AccountPage AccountPage.java36 - Clicked Account Detail
+20241004 18:18:31 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java171 - Account detail icon is clicked
+20241004 18:18:36 INFO  [main] base.BasePage BasePage.java75 - click LogOut Button is clicked 
+20241004 18:18:36 INFO  [main] pages.AccountPage AccountPage.java44 - clicked logoutButton
+20241004 18:18:36 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java177 - User clicked on logout button
+20241004 18:18:36 INFO  [main] base.BasePage BasePage.java75 - Click Yes on confirmation  is clicked 
+20241004 18:18:36 INFO  [main] pages.AccountPage AccountPage.java50 - Clicked Yes on confirmation popup 
+20241004 18:18:36 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java183 - User clicks Yes on confirmation
+20241004 18:18:36 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java188 - Landed on accountPage
+20241004 18:18:36 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java190 - Page title=Transactions
+20241004 18:21:14 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 18:21:16 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java117 - Page Name=LoginPage
+20241004 18:21:16 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java129 - Username =Manishtest13
+20241004 18:21:40 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 18:21:42 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java117 - Page Name=LoginPage
+20241004 18:21:42 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java129 - Username =Manishtest13
+20241004 18:21:44 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 18:21:47 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 18:21:47 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 18:21:49 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 18:21:49 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java117 - Page Name=DashboardPage
+20241004 18:21:49 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java147 - Landed on Dashboard
+20241004 18:21:53 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java151 - Page title=Log in
+20241004 18:21:53 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java117 - Page Name=DashboardPage
+20241004 18:22:49 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 18:22:51 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java117 - Page Name=LoginPage
+20241004 18:22:51 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java129 - Username =Manishtest13
+20241004 18:22:53 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 18:22:56 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 18:22:56 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 18:22:58 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 18:22:58 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java117 - Page Name=DashboardPage
+20241004 18:22:58 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java147 - Landed on Dashboard
+20241004 18:23:02 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java151 - Page title=Dashboard
+20241004 18:23:02 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java117 - Page Name=DashboardPage
+20241004 18:23:05 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241004 18:23:05 INFO  [main] pages.DashboardPage DashboardPage.java42 - click titleViewButton
+20241004 18:23:05 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java159 - Tile view icon is clicked
+20241004 18:23:09 INFO  [main] pages.DashboardPage DashboardPage.java64 - click on EverBank Savings Account
+20241004 18:23:09 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java165 - MMA Account tile is clicked
+20241004 18:23:09 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java117 - Page Name=AccountPage
+20241004 18:23:13 INFO  [main] base.BasePage BasePage.java75 - Click on Account Detail is clicked 
+20241004 18:23:13 INFO  [main] pages.AccountPage AccountPage.java36 - Clicked Account Detail
+20241004 18:23:13 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java171 - Account detail icon is clicked
+20241004 18:23:17 INFO  [main] base.BasePage BasePage.java75 - click LogOut Button is clicked 
+20241004 18:23:17 INFO  [main] pages.AccountPage AccountPage.java44 - clicked logoutButton
+20241004 18:23:17 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java177 - User clicked on logout button
+20241004 18:23:18 INFO  [main] base.BasePage BasePage.java75 - Click Yes on confirmation  is clicked 
+20241004 18:23:18 INFO  [main] pages.AccountPage AccountPage.java50 - Clicked Yes on confirmation popup 
+20241004 18:23:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java183 - User clicks Yes on confirmation
+20241004 18:23:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java117 - Page Name=LoginPage
+20241004 18:23:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java188 - Landed on accountPage
+20241004 18:23:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java190 - Page title=Transactions
+20241004 18:25:46 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 18:25:48 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java119 - Page Name=LoginPage
+20241004 18:25:48 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java131 - Username =Manishtest13
+20241004 18:25:51 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 18:25:53 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 18:25:53 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 18:25:55 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 18:25:55 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java119 - Page Name=DashboardPage
+20241004 18:25:55 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241004 18:25:59 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Dashboard
+20241004 18:25:59 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java119 - Page Name=DashboardPage
+20241004 18:26:03 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241004 18:26:03 INFO  [main] pages.DashboardPage DashboardPage.java42 - click titleViewButton
+20241004 18:26:03 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java161 - Tile view icon is clicked
+20241004 18:26:06 INFO  [main] pages.DashboardPage DashboardPage.java64 - click on EverBank Savings Account
+20241004 18:26:06 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java167 - MMA Account tile is clicked
+20241004 18:26:06 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java119 - Page Name=AccountPage
+20241004 18:26:10 INFO  [main] base.BasePage BasePage.java75 - Click on Account Detail is clicked 
+20241004 18:26:10 INFO  [main] pages.AccountPage AccountPage.java36 - Clicked Account Detail
+20241004 18:26:10 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java173 - Account detail icon is clicked
+20241004 18:26:14 INFO  [main] base.BasePage BasePage.java75 - click LogOut Button is clicked 
+20241004 18:26:14 INFO  [main] pages.AccountPage AccountPage.java44 - clicked logoutButton
+20241004 18:26:14 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java179 - User clicked on logout button
+20241004 18:26:15 INFO  [main] base.BasePage BasePage.java75 - Click Yes on confirmation  is clicked 
+20241004 18:26:15 INFO  [main] pages.AccountPage AccountPage.java50 - Clicked Yes on confirmation popup 
+20241004 18:26:15 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java185 - User clicks Yes on confirmation
+20241004 18:26:15 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java119 - Page Name=LoginPage
+20241004 18:26:15 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java190 - Landed on accountPage
+20241004 18:26:15 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java192 - Page title=Transactions
+20241004 18:27:12 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 18:27:14 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java119 - Page Name=LoginPage
+20241004 18:27:14 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java131 - Username =Manishtest13
+20241004 18:27:16 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 18:27:19 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 18:27:19 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 18:27:21 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 18:27:21 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java119 - Page Name=DashboardPage
+20241004 18:27:21 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241004 18:27:25 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Log in
+20241004 18:27:25 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java119 - Page Name=DashboardPage
+20241004 18:27:32 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241004 18:27:32 INFO  [main] pages.DashboardPage DashboardPage.java42 - click titleViewButton
+20241004 18:27:32 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java161 - Tile view icon is clicked
+20241004 18:27:36 INFO  [main] pages.DashboardPage DashboardPage.java64 - click on EverBank Savings Account
+20241004 18:27:36 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java167 - MMA Account tile is clicked
+20241004 18:27:36 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java119 - Page Name=AccountPage
+20241004 18:27:39 INFO  [main] base.BasePage BasePage.java75 - Click on Account Detail is clicked 
+20241004 18:27:39 INFO  [main] pages.AccountPage AccountPage.java36 - Clicked Account Detail
+20241004 18:27:39 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java173 - Account detail icon is clicked
+20241004 18:27:44 INFO  [main] base.BasePage BasePage.java75 - click LogOut Button is clicked 
+20241004 18:27:44 INFO  [main] pages.AccountPage AccountPage.java44 - clicked logoutButton
+20241004 18:27:44 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java179 - User clicked on logout button
+20241004 18:27:44 INFO  [main] base.BasePage BasePage.java75 - Click Yes on confirmation  is clicked 
+20241004 18:27:44 INFO  [main] pages.AccountPage AccountPage.java50 - Clicked Yes on confirmation popup 
+20241004 18:27:44 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java185 - User clicks Yes on confirmation
+20241004 18:27:44 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java119 - Page Name=LoginPage
+20241004 18:27:44 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java190 - Landed on accountPage
+20241004 18:27:45 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java192 - Page title=Transactions
+20241004 18:37:06 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java47 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 18:37:08 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java119 - Page Name=LoginPage
+20241004 18:37:08 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java131 - Username =Manishtest13
+20241004 18:37:11 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 18:37:13 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 18:37:13 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 18:37:15 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 18:37:15 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java119 - Page Name=DashboardPage
+20241004 18:37:15 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java149 - Landed on Dashboard
+20241004 18:37:19 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Page title=Dashboard
+20241004 18:37:19 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java119 - Page Name=DashboardPage
+20241004 18:37:28 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241004 18:37:28 INFO  [main] pages.DashboardPage DashboardPage.java42 - click titleViewButton
+20241004 18:37:28 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java161 - Tile view icon is clicked
+20241004 18:37:31 INFO  [main] pages.DashboardPage DashboardPage.java64 - click on EverBank Savings Account
+20241004 18:37:31 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java167 - MMA Account tile is clicked
+20241004 18:37:31 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java119 - Page Name=AccountPage
+20241004 18:37:36 INFO  [main] base.BasePage BasePage.java75 - Click on Account Detail is clicked 
+20241004 18:37:36 INFO  [main] pages.AccountPage AccountPage.java29 - Clicked Account Detail
+20241004 18:37:36 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java173 - Account detail icon is clicked
+20241004 18:37:40 INFO  [main] base.BasePage BasePage.java75 - click LogOut Button is clicked 
+20241004 18:37:40 INFO  [main] pages.AccountPage AccountPage.java36 - clicked logoutButton
+20241004 18:37:40 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java179 - User clicked on logout button
+20241004 18:37:41 INFO  [main] base.BasePage BasePage.java75 - Click Yes on confirmation  is clicked 
+20241004 18:37:41 INFO  [main] pages.AccountPage AccountPage.java43 - Clicked Yes on confirmation popup 
+20241004 18:37:41 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java185 - User clicks Yes on confirmation
+20241004 18:37:41 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java119 - Page Name=LoginPage
+20241004 18:37:41 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java190 - Landed on accountPage
+20241004 18:37:41 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java192 - Page title=Transactions
+20241004 18:42:56 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java38 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 18:42:58 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java110 - Page Name=LoginPage
+20241004 18:42:58 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java122 - Username =Manishtest13
+20241004 18:43:01 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 18:43:04 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 18:43:04 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 18:43:06 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 18:43:06 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java110 - Page Name=DashboardPage
+20241004 18:43:06 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java140 - Landed on Dashboard
+20241004 18:43:10 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java144 - Page title=Dashboard
+20241004 18:43:10 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java110 - Page Name=DashboardPage
+20241004 18:43:14 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241004 18:43:14 INFO  [main] pages.DashboardPage DashboardPage.java42 - click titleViewButton
+20241004 18:43:14 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java152 - Tile view icon is clicked
+20241004 18:43:18 INFO  [main] pages.DashboardPage DashboardPage.java64 - click on EverBank Savings Account
+20241004 18:43:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java158 - MMA Account tile is clicked
+20241004 18:43:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java110 - Page Name=AccountPage
+20241004 18:43:23 INFO  [main] base.BasePage BasePage.java75 - Click on Account Detail is clicked 
+20241004 18:43:23 INFO  [main] pages.AccountPage AccountPage.java29 - Clicked Account Detail
+20241004 18:43:23 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java164 - Account detail icon is clicked
+20241004 18:43:27 INFO  [main] base.BasePage BasePage.java75 - click LogOut Button is clicked 
+20241004 18:43:27 INFO  [main] pages.AccountPage AccountPage.java36 - clicked logoutButton
+20241004 18:43:27 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java170 - User clicked on logout button
+20241004 18:43:28 INFO  [main] base.BasePage BasePage.java75 - Click Yes on confirmation  is clicked 
+20241004 18:43:28 INFO  [main] pages.AccountPage AccountPage.java43 - Clicked Yes on confirmation popup 
+20241004 18:43:28 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java176 - User clicks Yes on confirmation
+20241004 18:43:28 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java110 - Page Name=LoginPage
+20241004 18:43:28 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java181 - Landed on accountPage
+20241004 18:43:28 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java183 - Page title=Transactions
+20241004 18:43:28 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java50 - current browser closed
+20241004 19:11:17 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java119 - appDataProperties loaded fine
+20241004 19:11:17 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java124 - URL Value=https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Login
+20241004 19:11:24 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java49 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241004 19:11:26 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java133 - Page Name=LoginPage
+20241004 19:11:26 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java145 - Username =Manishtest13
+20241004 19:11:29 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241004 19:11:32 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241004 19:11:32 INFO  [main] pages.LoginPage LoginPage.java51 - Entered performLogin
+20241004 19:11:34 INFO  [main] pages.LoginPage LoginPage.java54 - Entered performLogin
+20241004 19:11:34 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java133 - Page Name=DashboardPage
+20241004 19:11:34 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java163 - Landed on Dashboard
+20241004 19:11:38 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java167 - Page title=Log in
+20241004 19:11:38 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java133 - Page Name=DashboardPage
+20241004 19:11:42 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241004 19:11:42 INFO  [main] pages.DashboardPage DashboardPage.java42 - click titleViewButton
+20241004 19:11:42 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java175 - Tile view icon is clicked
+20241004 19:11:46 INFO  [main] pages.DashboardPage DashboardPage.java64 - click on EverBank Savings Account
+20241004 19:11:46 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java181 - MMA Account tile is clicked
+20241004 19:11:46 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java133 - Page Name=AccountPage
+20241004 19:11:49 INFO  [main] base.BasePage BasePage.java75 - Click on Account Detail is clicked 
+20241004 19:11:49 INFO  [main] pages.AccountPage AccountPage.java29 - Clicked Account Detail
+20241004 19:11:49 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java187 - Account detail icon is clicked
+20241004 19:11:54 INFO  [main] base.BasePage BasePage.java75 - click LogOut Button is clicked 
+20241004 19:11:54 INFO  [main] pages.AccountPage AccountPage.java36 - clicked logoutButton
+20241004 19:11:54 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java193 - User clicked on logout button
+20241004 19:11:55 INFO  [main] base.BasePage BasePage.java75 - Click Yes on confirmation  is clicked 
+20241004 19:11:55 INFO  [main] pages.AccountPage AccountPage.java43 - Clicked Yes on confirmation popup 
+20241004 19:11:55 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java199 - User clicks Yes on confirmation
+20241004 19:11:55 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java133 - Page Name=LoginPage
+20241004 19:11:55 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java204 - Landed on accountPage
+20241004 19:11:55 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java206 - Page title=Transactions
+20241004 19:11:55 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java61 - current browser closed
+20241005 17:57:52 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java109 - appDataProperties loaded fine
+20241005 17:57:52 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java114 - URL Value=https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Login
+20241005 17:57:58 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241005 17:58:00 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=LoginPage
+20241005 17:58:00 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java135 - Username =Manishtest13
+20241005 17:58:03 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241005 17:58:06 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241005 17:58:06 INFO  [main] pages.LoginPage LoginPage.java52 - Entered performLogin
+20241005 17:58:08 INFO  [main] pages.LoginPage LoginPage.java55 - Entered performLogin
+20241005 17:58:08 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=DashboardPage
+20241005 17:58:08 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Landed on Dashboard
+20241005 17:58:12 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java157 - Page title=Log in
+20241005 17:58:12 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=DashboardPage
+20241005 17:58:21 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241005 17:58:21 INFO  [main] pages.DashboardPage DashboardPage.java42 - click titleViewButton
+20241005 17:58:21 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java165 - Tile view icon is clicked
+20241005 17:58:21 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java51 - current browser closed
+20241005 18:53:30 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java109 - appDataProperties loaded fine
+20241005 18:53:30 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java114 - URL Value=https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Login
+20241005 18:53:34 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241005 18:53:36 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=LoginPage
+20241005 18:53:36 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java135 - Username =Manishtest13
+20241005 18:53:38 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241005 18:53:41 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241005 18:53:41 INFO  [main] pages.LoginPage LoginPage.java52 - Entered performLogin
+20241005 18:53:43 INFO  [main] pages.LoginPage LoginPage.java55 - Entered performLogin
+20241005 18:53:43 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=DashboardPage
+20241005 18:53:43 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Landed on Dashboard
+20241005 18:53:47 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java157 - Page title=Dashboard
+20241005 18:53:47 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=DashboardPage
+20241005 18:53:51 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241005 18:53:51 INFO  [main] pages.DashboardPage DashboardPage.java42 - click titleViewButton
+20241005 18:53:51 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java165 - Tile view icon is clicked
+20241005 18:53:55 INFO  [main] pages.DashboardPage DashboardPage.java65 - click on EverBank Savings Account
+20241005 18:53:55 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java171 - MMA Account tile is clicked
+20241005 18:53:55 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=AccountPage
+20241005 18:53:59 INFO  [main] base.BasePage BasePage.java75 - Click on Account Detail is clicked 
+20241005 18:53:59 INFO  [main] pages.AccountPage AccountPage.java30 - Clicked Account Detail
+20241005 18:53:59 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java177 - Account detail icon is clicked
+20241005 18:54:03 INFO  [main] base.BasePage BasePage.java75 - click LogOut Button is clicked 
+20241005 18:54:03 INFO  [main] pages.AccountPage AccountPage.java37 - clicked logoutButton
+20241005 18:54:03 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java183 - User clicked on logout button
+20241005 18:54:04 INFO  [main] base.BasePage BasePage.java75 - Click Yes on confirmation  is clicked 
+20241005 18:54:04 INFO  [main] pages.AccountPage AccountPage.java45 - Clicked Yes on confirmation popup 
+20241005 18:54:04 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java189 - User clicks Yes on confirmation
+20241005 18:54:04 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=LoginPage
+20241005 18:54:04 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java194 - Landed on accountPage
+20241005 18:54:04 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java196 - Page title=Transactions
+20241005 18:54:04 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java51 - current browser closed
+20241005 19:00:41 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java109 - appDataProperties loaded fine
+20241005 19:00:41 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java114 - URL Value=https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Login
+20241005 19:00:48 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241005 19:00:50 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=LoginPage
+20241005 19:00:50 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java135 - Username =Manishtest13
+20241005 19:00:53 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241005 19:00:55 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241005 19:00:55 INFO  [main] pages.LoginPage LoginPage.java52 - Entered performLogin
+20241005 19:00:58 INFO  [main] pages.LoginPage LoginPage.java55 - Entered performLogin
+20241005 19:00:58 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=DashboardPage
+20241005 19:00:58 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Landed on Dashboard
+20241005 19:01:02 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java157 - Page title=Log in
+20241005 19:01:02 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=DashboardPage
+20241005 19:01:05 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241005 19:01:05 INFO  [main] pages.DashboardPage DashboardPage.java42 - click titleViewButton
+20241005 19:01:05 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java165 - Tile view icon is clicked
+20241005 19:01:09 INFO  [main] pages.DashboardPage DashboardPage.java65 - click on EverBank Savings Account
+20241005 19:01:09 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java171 - MMA Account tile is clicked
+20241005 19:01:09 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=AccountPage
+20241005 19:01:13 INFO  [main] base.BasePage BasePage.java75 - Click on Account Detail is clicked 
+20241005 19:01:13 INFO  [main] pages.AccountPage AccountPage.java30 - Clicked Account Detail
+20241005 19:01:13 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java177 - Account detail icon is clicked
+20241005 19:01:17 INFO  [main] base.BasePage BasePage.java75 - click LogOut Button is clicked 
+20241005 19:01:17 INFO  [main] pages.AccountPage AccountPage.java37 - clicked logoutButton
+20241005 19:01:17 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java183 - User clicked on logout button
+20241005 19:01:18 INFO  [main] base.BasePage BasePage.java75 - Click Yes on confirmation  is clicked 
+20241005 19:01:18 INFO  [main] pages.AccountPage AccountPage.java45 - Clicked Yes on confirmation popup 
+20241005 19:01:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java189 - User clicks Yes on confirmation
+20241005 19:01:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=LoginPage
+20241005 19:01:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java194 - Landed on accountPage
+20241005 19:01:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java196 - Page title=Transactions
+20241005 19:01:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java51 - current browser closed
+20241005 19:04:59 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java109 - appDataProperties loaded fine
+20241005 19:04:59 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java114 - URL Value=https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Login
+20241005 19:05:01 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241005 19:05:03 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=LoginPage
+20241005 19:05:03 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java135 - Username =Manishtest13
+20241005 19:05:05 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241005 19:05:08 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241005 19:05:08 INFO  [main] pages.LoginPage LoginPage.java52 - Entered performLogin
+20241005 19:05:10 INFO  [main] pages.LoginPage LoginPage.java55 - Entered performLogin
+20241005 19:05:10 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=DashboardPage
+20241005 19:05:10 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Landed on Dashboard
+20241005 19:05:14 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java157 - Page title=Dashboard
+20241005 19:05:14 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=DashboardPage
+20241005 19:05:18 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241005 19:05:18 INFO  [main] pages.DashboardPage DashboardPage.java42 - click titleViewButton
+20241005 19:05:18 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java165 - Tile view icon is clicked
+20241005 19:05:22 INFO  [main] pages.DashboardPage DashboardPage.java65 - click on EverBank Savings Account
+20241005 19:05:22 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java171 - MMA Account tile is clicked
+20241005 19:05:22 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=AccountPage
+20241005 19:05:26 INFO  [main] base.BasePage BasePage.java75 - Click on Account Detail is clicked 
+20241005 19:05:26 INFO  [main] pages.AccountPage AccountPage.java30 - Clicked Account Detail
+20241005 19:05:26 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java177 - Account detail icon is clicked
+20241005 19:05:31 INFO  [main] base.BasePage BasePage.java75 - click LogOut Button is clicked 
+20241005 19:05:31 INFO  [main] pages.AccountPage AccountPage.java37 - clicked logoutButton
+20241005 19:05:31 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java183 - User clicked on logout button
+20241005 19:05:32 INFO  [main] base.BasePage BasePage.java75 - Click Yes on confirmation  is clicked 
+20241005 19:05:32 INFO  [main] pages.AccountPage AccountPage.java45 - Clicked Yes on confirmation popup 
+20241005 19:05:32 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java189 - User clicks Yes on confirmation
+20241005 19:05:32 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=LoginPage
+20241005 19:05:32 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java194 - Landed on accountPage
+20241005 19:05:32 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java196 - Page title=Transactions
+20241005 19:05:32 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java51 - current browser closed
+20241005 19:10:41 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java109 - appDataProperties loaded fine
+20241005 19:10:41 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java114 - URL Value=https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Login
+20241005 19:10:46 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java39 - https://dev02-consumer-tiaa.d1.lfi.dev.fiscloudservices.com/LCDDigitalOneConsumer/#/Loginis entered
+20241005 19:10:48 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=LoginPage
+20241005 19:10:48 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java135 - Username =Manishtest13
+20241005 19:10:50 INFO  [main] pages.LoginPage LoginPage.java37 - Entered userName
+20241005 19:10:53 INFO  [main] pages.LoginPage LoginPage.java46 - Entered enterPassword
+20241005 19:10:53 INFO  [main] pages.LoginPage LoginPage.java52 - Entered performLogin
+20241005 19:10:55 INFO  [main] pages.LoginPage LoginPage.java55 - Entered performLogin
+20241005 19:10:55 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=DashboardPage
+20241005 19:10:55 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java153 - Landed on Dashboard
+20241005 19:10:59 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java157 - Page title=Dashboard
+20241005 19:10:59 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=DashboardPage
+20241005 19:11:02 INFO  [main] base.BasePage BasePage.java75 - TitleViewicon is clicked 
+20241005 19:11:02 INFO  [main] pages.DashboardPage DashboardPage.java42 - click titleViewButton
+20241005 19:11:02 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java165 - Tile view icon is clicked
+20241005 19:11:06 INFO  [main] pages.DashboardPage DashboardPage.java65 - click on EverBank Savings Account
+20241005 19:11:06 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java171 - MMA Account tile is clicked
+20241005 19:11:06 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=AccountPage
+20241005 19:11:10 INFO  [main] base.BasePage BasePage.java75 - Click on Account Detail is clicked 
+20241005 19:11:10 INFO  [main] pages.AccountPage AccountPage.java30 - Clicked Account Detail
+20241005 19:11:10 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java177 - Account detail icon is clicked
+20241005 19:11:14 INFO  [main] base.BasePage BasePage.java75 - click LogOut Button is clicked 
+20241005 19:11:14 INFO  [main] pages.AccountPage AccountPage.java37 - clicked logoutButton
+20241005 19:11:14 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java183 - User clicked on logout button
+20241005 19:11:15 INFO  [main] base.BasePage BasePage.java75 - Click Yes on confirmation  is clicked 
+20241005 19:11:15 INFO  [main] pages.AccountPage AccountPage.java45 - Clicked Yes on confirmation popup 
+20241005 19:11:15 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java189 - User clicks Yes on confirmation
+20241005 19:11:15 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java123 - Page Name=LoginPage
+20241005 19:11:15 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java194 - Landed on accountPage
+20241005 19:11:15 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java196 - Page title=Transactions
+20241005 19:11:15 INFO  [main] stepdefinitions.LoginSteps LoginSteps.java51 - current browser closed
